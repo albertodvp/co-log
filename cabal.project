@@ -1,0 +1,7 @@
+packages: co-log.cabal
+
+source-repository-package
+    type: git
+    location: https://github.com/albertodvp/co-log-core
+    tag: 215bc1383911e6024fc3d232bffae4a5c48cacc5
+

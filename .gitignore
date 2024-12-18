@@ -56,3 +56,4 @@ TAGS
 
 # co-log
 *.log
+.direnv
